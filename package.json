@@ -14,6 +14,13 @@
     "next": "14.2.5"
   },
   "devDependencies": {
+    "@safe-global/api-kit": "^2.4.3",
+    "@safe-global/protocol-kit": "^4.0.3",
+    "@web3auth/base": "^8.8.0",
+    "@web3auth/ethereum-provider": "^8.10.2",
+    "@web3auth/metamask-adapter": "^8.12.0",
+    "@web3auth/modal": "^8.10.2",
+    "web3": "^4.7.0",
     "typescript": "^5",
     "@types/node": "^20",
     "@types/react": "^18",
