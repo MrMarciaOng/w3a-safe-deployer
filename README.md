@@ -1,6 +1,8 @@
 # Safe Deployer
 
-Welcome to the Safe Deployer project! This application allows you to create a Safe transaction by adding multiple wallet addresses as owners of a Safe smart account.
+Welcome to the Safe Deployer project! This application allows you to create a Safe transaction by adding multiple wallet addresses as owners of a Safe smart account. 
+
+On NextJS v14, safe-core-sdk
 
 ## Features
 
