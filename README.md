@@ -34,7 +34,7 @@ Follow these instructions to get a copy of the project up and running on your lo
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/safe-deployer.git
+   git clone https://github.com/MrMarciaOng/w3a-safe-deployer.git
    cd safe-deployer
 
 
