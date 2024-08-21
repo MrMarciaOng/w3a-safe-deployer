@@ -1,6 +1,6 @@
 # Safe Deployer
 
-Welcome to the Safe Deployer project! This application allows you to create a Safe transaction by adding multiple wallet addresses as owners of a Safe smart account. 
+Welcome to the Safe Deployer project! This application allows you to create a Safe smart account and submit it on chain. You can add 2nd ownership by adding another wallet addresses as owners for the Safe smart account. 
 
 On NextJS v14, safe-core-sdk
 
@@ -12,12 +12,12 @@ On NextJS v14, safe-core-sdk
 
 ## Hosted Application
 
-You can access the hosted application at: [Safe Deployer](https://w3a-safe-deployer.vercel.app/)
+You can access the hosted application at: [Safe Smart Account Deployer](https://w3a-safe-deployer.vercel.app/)
 
 ![Dashboard](dashboard.png)
 ## Usage
 - Open the hosted application.
-- Click on the "Create Safe Transaction" button.
+- Click on the "Create Safe Smart account" button.
 - Enter the second wallet address in the pop-up modal.
 - Submit the form to create the Safe transaction.
 
